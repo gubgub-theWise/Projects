@@ -1,2 +1,2 @@
 # Projects
-Proving I can set up a Github
+Providing a space for all my projects. 
